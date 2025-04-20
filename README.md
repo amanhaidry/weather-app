@@ -48,7 +48,7 @@ This is a simple and responsive weather application that allows users to search 
 3. The app dynamically updates the DOM to display the fetched weather details.
 
 ## Live Demo
-Check out the live version of the app here: [Weather App Live Demo](https://your-live-deployed-link.com)
+Check out the live version of the app here: [Weather App Live Demo](https://amanhaidry.github.io/weather-app/)
 
 
 ## Technologies Used
